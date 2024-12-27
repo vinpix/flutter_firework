@@ -3,7 +3,8 @@
 Welcome to the `flutter_firework` project! This project focuses on building a firework display using Flutter.
 
 ## Demo
-[![Video Title](https://img.youtube.com/vi/VIDEO_ID/0.jpg)]([https://www.youtube.com/watch?v=VIDEO_ID](https://www.youtube.com/watch?v=h7z4-ZlagqA))
+[![Youtube Demo](https://img.youtube.com/vi/h7z4-ZlagqA/0.jpg)](https://www.youtube.com/watch?v=h7z4-ZlagqA)
+
 
 ## Table of Contents
 
